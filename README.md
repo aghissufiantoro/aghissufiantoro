@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aghissufiantoro
-- 👀 I’m interested in game
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning web proggramming
 - 📫 How to reach me instagram @aghissufiantoro
 
